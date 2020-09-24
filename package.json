@@ -1,0 +1,23 @@
+{
+  "name": "is-night",
+  "version": "1.0.0",
+  "description": "Is it night time? Give a date and find out.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewp/is-night.git"
+  },
+  "keywords": ["date"],
+  "author": "Matthew Phillips <matthew.phillips@hey.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/matthewp/is-night/issues"
+  },
+  "homepage": "https://github.com/matthewp/is-night#readme",
+  "devDependencies": {
+    "uvu": "^0.3.3"
+  }
+}
